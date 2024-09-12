@@ -1,0 +1,10 @@
+{
+  "name": "Demo_AngleLaunch",
+  "uuid": "a1782a17-5198-4730-a33b-7197083d3bf9",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "@iskl/rxjs-bundle": "^0.1.0"
+  }
+}
